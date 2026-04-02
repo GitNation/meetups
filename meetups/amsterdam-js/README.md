@@ -42,8 +42,25 @@ Companies can support AmsterdamJS by hosting the meetup or by covering food and 
 
 ### Logo
 
-<p>
-  <a href="./logo.svg">
-    <img src="./logo.svg" alt="AmsterdamJS logo" width="180" />
-  </a>
-</p>
+<table>
+  <tr>
+    <th>Variant</th>
+    <th>Preview</th>
+    <th>File</th>
+  </tr>
+  <tr>
+    <td>Color</td>
+    <td><img src="./logo-color.svg" alt="AmsterdamJS color logo" width="180" /></td>
+    <td><a href="./logo-color.svg">logo-color.svg</a></td>
+  </tr>
+  <tr>
+    <td>Black</td>
+    <td><img src="./logo-black.svg" alt="AmsterdamJS black logo" width="180" /></td>
+    <td><a href="./logo-black.svg">logo-black.svg</a></td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td bgcolor="#111111"><img src="./logo-white.svg" alt="AmsterdamJS white logo" width="180" /></td>
+    <td><a href="./logo-white.svg">logo-white.svg</a></td>
+  </tr>
+</table>
