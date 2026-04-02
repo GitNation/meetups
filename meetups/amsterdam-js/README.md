@@ -2,7 +2,11 @@
 
 <p>
   <a href="https://guild.host/amsterdamjs">
-    <img src="./logo.svg" alt="AmsterdamJS logo" width="220" />
+    <table cellpadding="20">
+      <tr>
+        <td bgcolor="#ffffff"><img src="./logo.svg" alt="AmsterdamJS logo" width="220" /></td>
+      </tr>
+    </table>
   </a>
 </p>
 
@@ -50,17 +54,35 @@ Companies can support AmsterdamJS by hosting the meetup or by covering food and 
   </tr>
   <tr>
     <td>Color</td>
-    <td><img src="./logo-color.svg" alt="AmsterdamJS color logo" width="180" /></td>
+    <td align="center">
+      <table cellpadding="20">
+        <tr>
+          <td bgcolor="#ffffff"><img src="./logo-color.svg" alt="AmsterdamJS color logo" width="180" /></td>
+        </tr>
+      </table>
+    </td>
     <td><a href="./logo-color.svg">logo-color.svg</a></td>
   </tr>
   <tr>
     <td>Black</td>
-    <td><img src="./logo-black.svg" alt="AmsterdamJS black logo" width="180" /></td>
+    <td align="center">
+      <table cellpadding="20">
+        <tr>
+          <td bgcolor="#ffffff"><img src="./logo-black.svg" alt="AmsterdamJS black logo" width="180" /></td>
+        </tr>
+      </table>
+    </td>
     <td><a href="./logo-black.svg">logo-black.svg</a></td>
   </tr>
   <tr>
     <td>White</td>
-    <td bgcolor="#111111"><img src="./logo-white.svg" alt="AmsterdamJS white logo" width="180" /></td>
+    <td align="center">
+      <table cellpadding="20">
+        <tr>
+          <td bgcolor="#111111"><img src="./logo-white.svg" alt="AmsterdamJS white logo" width="180" /></td>
+        </tr>
+      </table>
+    </td>
     <td><a href="./logo-white.svg">logo-white.svg</a></td>
   </tr>
 </table>
