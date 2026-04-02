@@ -1,0 +1,142 @@
+name: Talk Proposal
+description: Propose a talk for one of our meetups
+title: "Talk proposal: "
+labels:
+  - talk-proposal
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for proposing a talk.
+
+        Please keep one proposal per issue so feedback and scheduling stay easy to follow.
+
+        This form is based on the existing React Amsterdam and AmsterdamJS submission flows, adapted for GitHub Issues so organizers and speakers can discuss proposals in one place.
+
+        Share an idea, a story, a practical lesson, or a demo. Talks do not need to be limited to one framework or format.
+
+        GitHub issues are public. If you want to share private speaker details such as your email address, send them to events@gitnation.org instead of posting them here.
+  - type: dropdown
+    id: meetup
+    attributes:
+      label: Meetup
+      description: Choose the meetup this talk is intended for
+      options:
+        - React Amsterdam
+        - AmsterdamJS
+    validations:
+      required: true
+  - type: input
+    id: speaker-name
+    attributes:
+      label: Your name
+      placeholder: Jane Doe
+    validations:
+      required: true
+  - type: input
+    id: talk-title
+    attributes:
+      label: Talk title
+      description: A working title is fine
+      placeholder: How can LLMs help navigate docs of new React features?
+    validations:
+      required: true
+  - type: textarea
+    id: talk-description
+    attributes:
+      label: Talk description
+      description: Public summary for meetup listings or event pages
+      placeholder: A short public-facing description that would make someone want to attend.
+    validations:
+      required: true
+  - type: textarea
+    id: abstract
+    attributes:
+      label: Abstract
+      description: Main message, audience takeaway, or rough structure
+      placeholder: |
+        - Problem or context
+        - Main ideas or sections
+        - Demo, examples, or case study
+        - Key takeaway
+    validations:
+      required: true
+  - type: dropdown
+    id: talk-length
+    attributes:
+      label: Preferred talk length
+      options:
+        - Lightning talk (5-10 min)
+        - Full talk (20 min)
+        - Standard talk (25-30 min)
+        - Workshop / deep dive (45-60 min)
+        - Not sure yet
+    validations:
+      required: true
+  - type: checkboxes
+    id: talk-format
+    attributes:
+      label: Format
+      description: Select any formats that apply
+      options:
+        - label: Standard presentation with slides
+        - label: Lightning talk
+        - label: Live demo
+        - label: Live coding
+        - label: Workshop or hands-on session
+        - label: Fireside chat or interview style
+        - label: Audience Q&A or discussion
+        - label: Quiz, poll, or other audience interaction
+  - type: textarea
+    id: speaker-background
+    attributes:
+      label: Your bio
+      description: How should we introduce you on the meetup page or event listing?
+      placeholder: Short speaker bio, role, experience, and relevant context.
+    validations:
+      required: true
+  - type: input
+    id: profile-photo
+    attributes:
+      label: Profile photo URL
+      description: Public link to a profile photo for meetup or event pages
+      placeholder: https://...
+    validations:
+      required: false
+  - type: textarea
+    id: prior-speaking
+    attributes:
+      label: Previous talks, videos, or writing
+      description: Optional, but useful for organizers
+      placeholder: Links to recordings, slides, blog posts, conference talks, GitHub repos, etc.
+    validations:
+      required: false
+  - type: textarea
+    id: speaker-links
+    attributes:
+      label: Social or profile links
+      description: X, Bluesky, LinkedIn, GitHub, personal site, or anything relevant
+      placeholder: |
+        https://github.com/...
+        https://www.linkedin.com/in/...
+        https://bsky.app/profile/...
+    validations:
+      required: false
+  - type: checkboxes
+    id: logistics
+    attributes:
+      label: Logistics and confirmations
+      description: Use these when relevant for your meetup
+      options:
+        - label: I can present this talk in English
+        - label: I can present this talk in person in Amsterdam
+        - label: I have sent my private speaker details to events@gitnation.org
+        - label: I have read and agree to follow the meetup code of conduct
+  - type: textarea
+    id: organizer-notes
+    attributes:
+      label: Anything else organizers should know?
+      description: Optional
+      placeholder: Timing constraints, preferred dates, accessibility needs, setup requirements, or anything else relevant
+    validations:
+      required: false
