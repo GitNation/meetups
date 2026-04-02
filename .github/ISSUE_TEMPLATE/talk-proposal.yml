@@ -9,9 +9,7 @@ body:
       value: |
         Thanks for proposing a talk.
 
-        Please keep one proposal per issue so feedback and scheduling stay easy to follow.
-
-        This form is based on the existing React Amsterdam and AmsterdamJS submission flows, adapted for GitHub Issues so organizers and speakers can discuss proposals in one place.
+        Limit your issue to one talk proposal, so feedback and scheduling stay easy to follow.
 
         Share an idea, a story, a practical lesson, or a demo. Talks do not need to be limited to one framework or format.
 
