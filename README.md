@@ -1,6 +1,8 @@
 # GitNation Meetups
 
-Public talk proposals for our meetups live in GitHub issues.
+> Public talk proposals and meetup information for GitNation meetups
+
+Talks are proposed via GitHub issues:
 
 <p align="center">
   <a href="https://github.com/GitNation/meetups/issues/new?template=talk-proposal.yml">
