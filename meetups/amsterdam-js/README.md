@@ -34,7 +34,7 @@ Companies can support AmsterdamJS by hosting the meetup or by covering food and 
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSchq2PzDC303bunDlVCeXfRpzR3dtyBOqT_zIXdWv2KypLs7A/viewform">
-    <img src="../../venue-proposal-button.svg" alt="Propose your venue for AmsterdamJS" width="420" />
+    <img src="../../.readme/venue-proposal-button.svg" alt="Propose your venue for AmsterdamJS" width="420" />
   </a>
 </p>
 

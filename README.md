@@ -6,7 +6,7 @@ Talks are proposed via GitHub issues:
 
 <p align="center">
   <a href="https://github.com/GitNation/meetups/issues/new?template=talk-proposal.yml">
-    <img src="./submit-talk-proposal-button.svg" alt="Submit a talk proposal" width="420" />
+    <img src="./.readme/submit-talk-proposal-button.svg" alt="Submit a talk proposal" width="420" />
   </a>
 </p>
 

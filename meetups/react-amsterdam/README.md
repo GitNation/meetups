@@ -34,7 +34,7 @@ Companies can support React Amsterdam by hosting the meetup or by sponsoring foo
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdU5qiZbbtPIsZHvXi2sGd1XNdz8y9Gu3fe0KRTN90rMttygQ/viewform">
-    <img src="../../venue-proposal-button.svg" alt="Propose your venue for React Amsterdam" width="420" />
+    <img src="../../.readme/venue-proposal-button.svg" alt="Propose your venue for React Amsterdam" width="420" />
   </a>
 </p>
 
