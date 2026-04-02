@@ -14,8 +14,8 @@ Share an idea, a story, a practical lesson, or a demo. Organizers can ask follow
 
 ## Meetups
 
-- [React Amsterdam](./meetups/react-amsterdam)
-- [AmsterdamJS](./meetups/amsterdam-js)
+- [React Amsterdam](./meetups/react-amsterdam/README.md)
+- [AmsterdamJS](./meetups/amsterdam-js/README.md)
 
 If you need to send private speaker details such as your email address, send them to `d.zherebtsova@gitnation.org` instead of posting them in a public issue.
 
@@ -23,5 +23,5 @@ If you need to send private speaker details such as your email address, send the
 
 Have a great space and want to support the local JavaScript and React community in Amsterdam? Hosting a meetup is a simple way to meet strong engineers, show your team to the community, and help make the next event happen.
 
-- [AmsterdamJS hosting and sponsorship details](./meetups/amsterdam-js#sponsoring)
-- [React Amsterdam hosting and sponsorship details](./meetups/react-amsterdam#sponsoring)
+- [AmsterdamJS hosting and sponsorship details](./meetups/amsterdam-js/README.md#sponsoring)
+- [React Amsterdam hosting and sponsorship details](./meetups/react-amsterdam/README.md#sponsoring)
