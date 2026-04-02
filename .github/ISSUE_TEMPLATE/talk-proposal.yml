@@ -65,12 +65,10 @@ body:
     id: talk-length
     attributes:
       label: Preferred talk length
+      default: 1
       options:
         - Lightning talk (5-10 min)
-        - Full talk (20 min)
-        - Standard talk (25-30 min)
-        - Workshop / deep dive (45-60 min)
-        - Not sure yet
+        - Talk (20 min)
     validations:
       required: true
   - type: checkboxes
