@@ -123,7 +123,7 @@ body:
     attributes:
       label: Logistics and confirmations
       options:
-        - label: I have read and agree to follow the meetup code of conduct
+        - label: I have read and agree to follow the Code of Conduct: https://gitnation.com/coc
         - label: I can present this talk in English
         - label: I can present this talk in person in Amsterdam
         - label: Once I submit this talk proposal, I will send its URL and my email to d.zherebtsova@gitnation.org

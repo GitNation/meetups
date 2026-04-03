@@ -12,6 +12,8 @@ Talks are proposed via GitHub issues:
 
 Share an idea, a story, a practical lesson, or a demo. Organizers can ask follow-up questions directly in the same thread.
 
+All meetup participation should follow the [GitNation Code of Conduct](https://gitnation.com/coc).
+
 ## Meetups
 
 - [React Amsterdam](./meetups/react-amsterdam/README.md)
