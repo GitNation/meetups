@@ -13,7 +13,7 @@ body:
 
         Share an idea, a story, a practical lesson, or a demo. Talks do not need to be limited to one framework or format.
 
-        Once you have created your talk proposal issue, send it along with your email address to d.zherebtsova@gitnation.org
+        Once you have created your talk proposal issue, send its URL along with your email address to d.zherebtsova@gitnation.org
   - type: dropdown
     id: meetup
     attributes:
