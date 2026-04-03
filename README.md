@@ -17,7 +17,7 @@ Share an idea, a story, a practical lesson, or a demo. Organizers can ask follow
 - [React Amsterdam](./meetups/react-amsterdam/README.md)
 - [AmsterdamJS](./meetups/amsterdam-js/README.md)
 
-If you need to send private speaker details such as your email address, send them to [d.zherebtsova@gitnation.org](mailto:d.zherebtsova@gitnation.org) instead of posting them in a public issue.
+If you need to send private speaker details such as your email address, send them to [`d.zherebtsova@gitnation.org`](mailto:d.zherebtsova@gitnation.org) instead of posting them in a public issue.
 
 ## Host A Meetup
 
