@@ -13,7 +13,7 @@ body:
 
         Share an idea, a story, a practical lesson, or a demo. Talks do not need to be limited to one framework or format.
 
-        GitHub issues are public. If you want to share private speaker details such as your email address, send them to d.zherebtsova@gitnation.org instead of posting them here.
+        Once you have created your talk proposal issue, send it along with your email address to d.zherebtsova@gitnation.org
   - type: dropdown
     id: meetup
     attributes:
@@ -122,12 +122,11 @@ body:
     id: logistics
     attributes:
       label: Logistics and confirmations
-      description: Use these when relevant for your meetup
       options:
+        - label: I have read and agree to follow the meetup code of conduct
         - label: I can present this talk in English
         - label: I can present this talk in person in Amsterdam
-        - label: I have sent my private speaker details to d.zherebtsova@gitnation.org
-        - label: I have read and agree to follow the meetup code of conduct
+        - label: Once I submit this talk proposal, I will send its URL and my email to d.zherebtsova@gitnation.org
   - type: textarea
     id: organizer-notes
     attributes:
